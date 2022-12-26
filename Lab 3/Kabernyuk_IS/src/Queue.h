@@ -6,7 +6,6 @@ template <class T>
 
 #define SIZE 1000
 
-
 class Queue
 {
     T* arr;       
